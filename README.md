@@ -1,1 +1,2 @@
-# A-core-vocabulary-database-for-Romance-lexified-creoles
+# A core vocabulary database for Romance lexified creoles
+Welcome to this open-access comparative database containing over 6500 basic lexemes in 34 French, Portuguese and Spanish creole languages. It is designed to aid the documentation of often under-researched languages and provide a new tool for comparative linguistic research. To be released at the 24th Annual Conference of the Association of Portuguese and Spanish-Lexified Creoles (ACBLPE) and the Summer Conference of the Society for Pidgin and Creole Linguistics (SPCL) - 2026, hosted by Aarhus University.
