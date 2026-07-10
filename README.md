@@ -6,4 +6,5 @@ Besides the database file (Comparative database - Swadesh Lists.csv), we provide
 
 # How to cite:
 **The database:** Granja, Fábio Barcellos. 2026. A core vocabulary database for Romance lexified creoles (v. 1.0). https://doi.org/10.5281/zenodo.21010342
+
 **The thesis:** Granja, Fábio Barcellos. 2026. A core vocabulary database for Romance lexified creoles (and what we can do with it) [Master's thesis, Utrecht University]. https://studenttheses.uu.nl/items/75140c08-5e2d-4c44-b3af-2d7e3ff8e843
