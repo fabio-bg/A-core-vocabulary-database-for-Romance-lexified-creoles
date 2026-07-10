@@ -1,0 +1,599 @@
+Author,Source,Bibtex,Language
+Araujo2012,"Araujo, Vanessa Pinheiro de. 2012. Um dicionário principense-português:
+Universidade de Sao Paulo. [MA dissertation]. doi:10.11606/d.8.2013.
+tde-11062013-101052.","@phdthesis{Araujo2012,
+  title = {Um dicionário principense-portugu\^es},
+  url = {http://dx.doi.org/10.11606/D.8.2013.tde-11062013-101052},
+  DOI = {10.11606/d.8.2013.tde-11062013-101052},
+  school = {Universidade de Sao Paulo},
+  author = {Araujo,  Vanessa Pinheiro de},
+  year= {2012}
+}",Principense
+AraujoHagemeijer2013,"Araújo, Gabriel Antunes de & Tjerk Hagemeijer. 2013. Dicionário livre santome
+- português. Hedra.
+","@book{AraujoHagemeijer2013,
+  title  = {Dicion{\'a}rio livre santome - portugu{\^e}s},
+  author = {de Ara{\'u}jo, Gabriel Antunes and Hagemeijer, Tjerk},
+  publisher = {Hedra},
+  year   =  {2013}
+}",Santome
+Baker1982,"Baker, Philip. 1982. The contribution of the non-francophone immigrants to the lexicon of Mauritian Creole: an examination of the peopling of Mauritius, an analysis
+of the non-French part of the lexicon of its Creole language, including a comparison of the latter with those of reunion and the Seychelles, and a discussion of the origins and affinities of Mauritian Creole: University of London [PhD dissertation].
+","@phdthesis{Baker1982,
+  title = {The contribution of the non-francophone immigrants to the lexicon of {M}auritian {C}reole: an examination of the peopling of {M}auritius, an analysis of the non-{F}rench part of the lexicon of its {C}reole language, including a comparison of the latter with those of Reunion and the {S}eychelles, and a discussion of the origins and affinities of {M}auritian {C}reole},
+  school = {University of London},
+  author = {Baker,  Philip},
+  year= {1982}
+}","Mauritian, Réunionnese"
+Bandeira2017,"Bandeira, Manuele. 2017. Reconstrução fonológica e lexical do protocrioulo
+do Golfo da Guiné: Universidade de São Paulo [Ph.D. dissertation]. doi:
+10.11606/t.8.2017.tde-05042017-134159. ","@phdthesis{Bandeira2017,
+ author  = {Manuele Bandeira},
+ title  = {Reconstrução fonológica e lexical do protocrioulo do {Golfo da Guiné}},
+ year  = {2017},
+ school = {Universidade de São Paulo},
+ doi  = {10.11606/t.8.2017.tde-05042017-134159},
+ url  = {http://dx.doi.org/10.11606/t.8.2017.tde-05042017-134159},
+ type = {{Ph.D.} dissertation}
+}","Santome, Fá d'Ambô, Principense, Angolar"
+Baptista2014,"Baptista, Maria do Céu dos Santos. 2014. Descrição fonológica da variedade da
+ilha de Santo Antão. In Jürgen Lang ed., A variação geográfica do crioulo
+caboverdiano, 183–250. Erlangen: FAU University Press.","@incollection{Baptista2014,
+title = {Descrição fonológica da variedade da ilha de {S}anto {A}ntão},
+booktitle = {A variação geográfica
+do crioulo caboverdiano},
+author = {Baptista, Maria do Céu dos Santos},
+editor = {Lang, Jürgen},
+publisher = {FAU University Press},
+address = {Erlangen},
+pages = {183--250},
+isbn = {9789519040721},
+year = {2014},
+}",Santo Antão CV
+Baptista2019,"Baptista, Marlyse. 2019. Variation in creole languages: Insights from a Swadesh list. Journal of Ibero-Romance Creoles 91. 251–277. http://www.acblpe.com/revista/volume-9-2019/
+variation-in-creole-languages-insights-from-a-swadesh-list.
+","@article{Baptista19,
+    author = {Baptista, Marlyse},
+    year = {2019},
+    pages = {251--277},
+    title = {Variation in creole languages: Insights from a {Swadesh} list},
+    volume = {9},
+    number = {1},
+    journal = {Journal of Ibero-Romance Creoles},
+    issn = {2184-5360},
+    URL = {http://www.acblpe.com/revista/volume-9-2019/variation-in-creole-languages-insights-from-a-swadesh-list}
+}","Santiago CV, Santo Antão CV, São Vicente CV, Fogo CV, Brava CV"
+Barbotin&Tourenux2000,"Tourneux, Henry & Maurice Barbotin. 2011. Dictionnaire pratique du créole de
+guadeloupe Marie-Galante. Editions-Diffusion Karthala.","@book{TourneuxBarbotin2011,
+  title     = {Dictionnaire pratique du cr{\'e}ole de Guadeloupe
+               ({Marie-Galante})},
+  author    = {Tourneux, Henry and Barbotin, Maurice},
+  publisher = {Editions-Diffusion Karthala},
+  year      =  {2011}
+}",Guadeloupean
+Barthèlemi2007,"Barthèlemi, Georges. 2007. Dictionnaire créole guyanais-français: suivi d’un index
+français-créole guyanais. Ibis Rouge.","@book{Barthelemi2007,
+  title     = {Dictionnaire cr{\'e}ole guyanais-fran{\c c}ais: suivi d'un index
+               fran{\c c}ais-cr{\'e}ole guyanais},
+  author    = {Barthèlemi, Georges},
+  publisher = {Ibis Rouge},
+  year      =  {2007}
+}",Guianese
+BaxterSilva2004,"Baxter, Alan N. & Patrick Silva. 2004. A dictionary of Kristang (Malacca Creole
+Portuguese) - English. Canberra: Pacific Linguistics.","@book{BaxterSilva2004,
+  address   = {Canberra},
+  author    = {Baxter, Alan N. and Silva, Patrick},
+  booktitle = {A dictionary of {Kristang (Malacca Creole Portuguese) - English}},
+  publisher = {Pacific Linguistics},
+  title     = {A dictionary of Kristang (Malacca Creole Portuguese) - English},
+  year      = {2004}
+}",Malacca
+Biagui2012,"Biagui, Noël Bernard. 2012. Description générale du créole afro-portugais parlé à
+Ziguinchor (Sénégal): Université Cheik Anta Diop [Ph.D. dissertation]. http:
+//www.theses.fr/2012INAL0017.","@phdthesis{Biagui2012,
+    url = {http://www.theses.fr/2012INAL0017},
+    title = {Description générale du créole afro-portugais parlé à {Ziguinchor (Sénégal)}},
+    author = {Biagui, Noël Bernard},
+    year = {2012},
+    school = {Université Cheik Anta Diop},
+    type = {{Ph.D.} dissertation}
+}",Casamancese
+BickertonEscalante1970,"Bickerton, Derek & Aquilas Escalante. 1970. Palenquero: A Spanish-based
+creole of Northern Colombia. Lingua 24. 254–267. doi:https://doi.org/10.
+1016/0024-3841(70)90080-X. ","@article{BickertonEscalante1970,
+title = {Palenquero: A {S}panish-based creole of {N}orthern {C}olombia},
+journal = {Lingua},
+volume = {24},
+pages = {254-267},
+year = {1970},
+issn = {0024-3841},
+doi = {https://doi.org/10.1016/0024-3841(70)90080-X},
+url = {https://www.sciencedirect.com/science/article/pii/002438417090080X},
+author = {Bickerton, Derek and Escalante, Aquilas}
+}",Palenquero
+Callaway1820,"Callaway, John. 1820. A vocabulary, in the Ceylon Portuguese, and English languages. with a series of familiar phrases. Colombo: Wesleyan Mission Press.","@book{Callaway1820,
+  title     = {A vocabulary, in the {C}eylon {P}ortuguese, and {E}nglish languages. With a series of familiar phrases},
+  author    = {Callaway, John},
+  publisher = {Wesleyan Mission Press},
+  address = {Colombo},
+  year      =  {1820}
+}",Sri Lanka PT
+Camins1999,"Camins, Bernardino S. 1999. Chabacano de Zamboanga handbook and Chabacano-English-Spanish dictionary. Zamboanga City: First United Broadcasting Corp.","@book{Camins1999,
+  title     = {Chabacano de {Z}amboanga Handbook and {C}habacano-{E}nglish-{S}panish Dictionary},
+  author    = {Camins, Bernardino S},
+  publisher = {First United Broadcasting Corp},
+  address = {Zamboanga City},
+  year      =  {1999}
+}",Zamboanga CH
+Carvalhoetal.2022,"Silva, Gabriel, Gélsama Santos, Amanda Carvalho, Janina Forte & Jaciara Silva.
+2023. Dicionário online do kheuól do uaçá, variedades karipuna e galibi-marworno. Natural Language and Linguistic Theory 4(2). doi:10.25189/
+2675-4916.2023.V4.N2.ID685.
+","@article{Kheuol2023,
+author = {Silva, Gabriel and Santos, Gélsama and Carvalho, Amanda and Forte, Janina and Silva, Jaciara},
+year = {2023},
+title = {Dicionário online do Kheuól do Uaçá, variedades Karipuna e Galibi-Marworno},
+volume = {4},
+number = {2},
+journal = {Natural Language and Linguistic Theory},
+doi = {10.25189/2675-4916.2023.V4.N2.ID685}
+}",Karipuna
+Clements2011,"Clements, J. Clancy. 2011. Word List with English, Portuguese, Korlai Indo-Portuguese and Daman Indo-Portuguese. Draft, used with author’s permission.","@unpublished{clements_dkwordlist,
+    author = {Clements, {J. Clancy}},
+    title = {{Word List with English, Portuguese, Korlai Indo-Portuguese and Daman Indo-Portuguese}},
+    year = {2011},
+    note = {draft, used with author's permission}
+}","Daman, Korlai"
+Clements2012,"Clements, J. Clancy. 2012. Notes on the phonology and lexicon of some indo-portuguese creoles. In Ibero-Asian creoles: Comparative perspectives, 15–46.
+Amsterdam: John Benjamins. doi:10.1075/cll.46.02cle.","@incollection{Clements12,
+    author = {Clements, {J. Clancy}},
+    year = {2012},
+    month = {01},
+    pages = {15--46},
+    title = {Notes on the phonology and lexicon of some Indo-Portuguese creoles},
+    doi = {10.1075/cll.46.02cle},
+    booktitle = {{Ibero-Asian} Creoles: Comparative Perspectives},
+    publisher = {John Benjamins},
+    address = {Amsterdam}
+}","Daman, Korlai, Diu, Kannur, Sri Lanka"
+Confiant2007,"Confiant, Raphaël. 2007. Dictionnaire créole martiniquais-français. Matoury: Ibis
+Rouge.","@book{Confiant2007,
+  title     = {Dictionnaire créole martiniquais-français},
+  author    = {Confiant, Raphaël},
+  publisher = {Ibis Rouge},
+  address = {Matoury},
+  year      =  {2007}
+}",Martinican
+Cosme2014,"Tiny, Abigail. 2014. As relações filogenéticas entre os crioulos do Golfo da Guiné.
+Universidade de Lisboa [MA dissertation]. https://repositorio.ulisboa.pt/
+entities/publication/4d895fbb-874f-414e-a81f-c4bfef86da52.","@mastersthesis{Tiny2014,
+    title={As relações filogenéticas entre os crioulos do Golfo da Guiné},
+    author={Abigail Tiny},
+    year={2014},
+    school={Universidade de Lisboa},
+    url={https://repositorio.ulisboa.pt/entities/publication/4d895fbb-874f-414e-a81f-c4bfef86da52},
+    type = {{MA} dissertation}
+}","Santome, Fá d'Ambô, Principense, Angolar"
+DeCastro2019,"De Castro, Gefilloyd L. 2019. Chavacano de Zamboanga: idiomatic expressions
+Chavacano-English dictionary.","@book{DeCastro2019,
+  title     = {Chavacano de {Z}amboanga: idiomatic expressions & {C}havacano-{E}nglish dictionary},
+  author    = {De Castro, Gefilloyd L.},
+  year      =  {2019}
+}",Zamboanga CH
+Diccionario2008,"Office of the City Mayor. 2008. Diccionario chabacano del ciudad de Cavite.
+Cavite City: Office of the City Mayor.","@book{Diccionario2008,
+  title     = {Diccionario Chabacano del Ciudad de {C}avite},
+  author = {Office of the City Mayor},
+  publisher    = {Office of the City Mayor},
+  address = {Cavite City},
+  year      =  {2008}
+}",Cavite CH
+Dieck2000,"Dieck, Marianne. 2000. La negación en palenquero. Frankfurt a. M., Madrid:
+Vervuert Verlagsgesellschaft. doi:10.31819/9783964561503.","@book{Dieck2000,
+url = {https://doi.org/10.31819/9783964561503},
+title = {La negación en palenquero},
+title = {Análisis sincrónico, estudio comparativo y consecuencias teóricas},
+author = {Dieck, Marianne},
+publisher = {Vervuert Verlagsgesellschaft},
+address = {Frankfurt a. M., Madrid},
+doi = {doi:10.31819/9783964561503},
+isbn = {9783964561503},
+year = {2000}
+}",Palenquero
+Dieck2002,"Dieck, Marianne 2002. Distribución y alcance de la negación en palenquero. In Yves Moñino, Armin Schwegler Eds., Palenque, Cartagena y Afro-Caribe: historia y lengua pp. 149-167. Max Niemeyer Verlag Tübingen.","@incollection{Dieck2002,
+title = {Distribución y alcance de la negación en palenquero},
+booktitle = {Palenque, Cartagena y Afro-Caribe : historia y lengua},
+author = {Dieck, Marianne},
+editor = {Schwegler, Armin and Moñino, Yves},
+publisher = {Max Niemeyer Verlag},
+pages = {149--168},
+year = {2002}
+}",Palenquero
+Doval&Reyes2012,"Doval, Álvaro E. T. & Reyes, Luis S. 2012. Diccionario de la lengua palenquera -
+risionário luénga ri paléngue. Corporación Sociocultural de Afrodescendientes Ataole.
+","@book{DovalReyes2012,
+  title     = {Gramática de la Lengua Palenquera: Introducción para Principiantes},
+  author    = {Triviño-Doval, Álvaro Enrique and Simarra-Reyes, Luis},
+  publisher = {Corporacion Ataole},
+  address = {Cartagena},
+  year      =  {2012}
+}",Palenquero
+Escalante2005,"Escalante, Enrique R. 2005. Chabacano... for everyone: a guide to the Chabacano language. Manila: Baby Dragon Printing Press.
+","@book{Escalante2005,
+  title     = {Chabacano... for everyone: a guide to the {C}habacano language},
+  author    = {Escalante, Enrique R.},
+  publisher = {Baby Dragon Printing Press},
+  address = {Manila},
+  year      =  {2005}
+}",Cavite CH
+Estrada2005,"Estrada, Solmery C. 2005. Diccionario de la lengua afro palenquera-español. Ediciones Pluma de Mompox. https://books.google.com.co/books?id=znoCDR1nr0QC&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false","@book{Estrada2005,
+  title     = {Diccionario de la lengua Afro Palenquera -Español},
+  author    = {Estrada, Solmery Cásseres},
+  publisher = {Ediciones Pluma de Mompox},
+  address = {Cartagena},
+  year      =  {2005}
+}",Palenquero
+FernandesBaxter2001,"Fernandes, Miguel Senna & Alan Norman Baxter. 2004. Maquista chapado: vocabulary and expressions in Macao’s Portuguese Creole. Macao: Instituto cultural
+do governo da R.A.E. de Macau.","@book{FernandesBaxter2004,
+  title     = {Maquista chapado : vocabulary and expressions in {M}acao's {P}ortuguese {C}reole},
+  author    = {Fernandes, Miguel Senna and Baxter, Alan Norman},
+  publisher = {Instituto cultural do governo da R.A.E. de Macau},
+  address = {Macao},
+  year      =  {2004}
+}",Macau
+Frank2001,"Frank, David B. 2001. Kwéyòl dictionary. SIL International.","@book{Frank2001,
+  title     = {Kwéyòl dictionary},
+  author    = {Frank, David B},
+  publisher = {SIL International},
+  year      =  {2001}
+}",Saint lucian
+Green2002,"Green, Katherine 2002. The past tense marker a: Palenquero in San Cristóbal Dominican Republic. In Yves Moñino, Armin Schwegler Eds., Palenque, Cartagena y Afro-Caribe: historia y lengua pp. 137-148. Max Niemeyer Verlag Tübingen.","@inbook{Green2002,
+url = {https://doi.org/10.1515/9783110960228.137},
+title = {The past tense marker a: {P}alenquero in {S}an {C}ristóbal ({D}ominican {R}epublic)},
+booktitle = {Palenque, {C}artagena y {A}fro-{C}aribe},
+booktitle = {Historia y lengua},
+author = {Katherine Green},
+editor = {Yves Moñino and Armin Schwegler},
+publisher = {Max Niemeyer Verlag},
+address = {Berlin, Boston},
+pages = {137--148},
+doi = {doi:10.1515/9783110960228.137},
+isbn = {9783110960228},
+year = {2002}
+}",Palenquero
+HagemeijerMaurer-CecchiniSegorbe2020,"Hagemeijer, Tjerk, Philippe Maurer-Cecchini & Armando Zamora Segorbe.
+2020. A grammar of Fá d’Ambô. Berlin, Boston: De Gruyter Mouton. doi:
+doi:10.1515/9783110766264.","@book{fadambo1,
+url = {https://doi.org/10.1515/9783110766264},
+title = {A Grammar of Fa d’Ambô},
+author = {Tjerk Hagemeijer and Philippe Maurer-Cecchini and Armando Zamora Segorbe},
+publisher = {De Gruyter Mouton},
+address = {Berlin, Boston},
+doi = {doi:10.1515/9783110766264},
+isbn = {9783110766264},
+year = {2020},
+lastchecked = {2024-06-23}
+}",Fá d'Ambô
+Hancock1975,"Hancock, Ian F. 1975. Malacca Creole Portuguese: Asian, African or European?
+Anthropological Linguistics 17. 211–236.","@article{Hancock1975,
+title = {Malacca {C}reole {P}ortuguese: {A}sian, {A}frican or {E}uropean?},
+journal = {Anthropological Linguistics},
+volume = {17},
+issue = {5},
+pages = {211-236},
+year = {1975},
+author = {Hancock, Ian F.}
+}",Palenquero
+Jacobs2012,"Jacobs, Bart. 2012. Origins of a creole. Berlin, Boston: De Gruyter Mouton. doi:
+doi:10.1515/9781614511076.","@book{Jacobs2012,
+url = {https://doi.org/10.1515/9781614511076},
+title = {Origins of a Creole},
+title = {The History of Papiamentu and Its African Ties},
+author = {Bart Jacobs},
+publisher = {De Gruyter Mouton},
+address = {Berlin, Boston},
+doi = {doi:10.1515/9781614511076},
+isbn = {9781614511076},
+year = {2012},
+}",Papiamento
+JacobsHoyer2018,"Jacobs, Bart & Holand Hoyer. 2018. Papiamento Swadesh list. https://en.
+wiktionary.org/wiki/Appendix:Papiamento_Swadesh_list.","@online{PapiamentoSwadesh,
+  author = {Jacobs, Bart and Hoyer, Holand},
+  title = {Papiamento {S}wadesh list},
+  year = {2018},
+  url = {https://en.wiktionary.org/wiki/Appendix:Papiamento_Swadesh_list}
+}",Papiamento
+Maurer2011,"Maurer, Philippe. 2011. The former Portuguese Creole of Batavia and Tugu (Indonesia). London: Battlebridge Publications.","@book{MaurerTugu,
+  title     = {The former {P}ortuguese {C}reole of {B}atavia and {T}ugu ({I}ndonesia)},
+  author    = {Maurer, Philippe},
+  publisher = {Battlebridge Publications},
+  address = {London},
+  year      =  {2011}
+}",Tugu/Batavia
+Mercado2026,"Mercado, Nino 2026. Kribi: Dictionary of Colombian Palenque indigenous language. Kribi. https://kribi.com.co/kajangari","@misc{Mercado2026,
+  author       = {Mercado, Nino},
+  title        = {Kajangari/{D}iccionario {P}alenquero},
+  year         = {2026},
+  url          = {https://kribi.com.co/kajangari}
+  }",Palenquero
+"Michaelis,Rosalie&Muhme2009","Michaelis, Susanne, Marcel Rosalie & Katrin Muhme. 2009. Seychelles creole. In
+Martin Haspelmath & Uri Tadmor (eds.), World Loanword Database, Leipzig:
+Max Planck Institute for Evolutionary Anthropology. https://wold.clld.
+org/vocabulary/7.","@incollection{SeychellesWOLD,
+  address   = {Leipzig},
+  author    = {Susanne Michaelis and Marcel Rosalie and Katrin Muhme},
+  booktitle = {World {L}oanword {D}atabase},
+  editor    = {Martin Haspelmath and Uri Tadmor},
+  publisher = {Max Planck Institute for Evolutionary Anthropology},
+  title     = {Seychelles Creole},
+  url       = {https://wold.clld.org/vocabulary/7},
+  year      = {2009}
+}",Seychellois
+Mondesir1992,"Mondesir, Jones E. 1992. Dictionary of St. Lucian Creole. Berlin/New York:
+Mouton de Gruyter.","@book{Mondesir1992,
+  title     = {Dictionary of {S}t. {L}ucian {C}reole},
+  author    = {Mondesir, Jones E.},
+  publisher = {Mouton de Gruyter},
+  address = {Berlin/New York},
+  year      =  {1992}
+}",Saint Lucian
+Moñino2002,"Moñino, Yves 2002. Las construcciones de genitivo en palenquero. In Yves Moñino, Armin Schwegler Eds., Palenque, Cartagena y Afro-Caribe: historia y lengua pp. 227-248. Max Niemeyer Verlag Tübingen.","@inbook{Monino2002,
+url = {https://doi.org/10.1515/9783110960228.227},
+title = {Las construcciones de genitivo en palenquero : ¿una semantaxis africana?},
+booktitle = {Palenque, Cartagena y Afro-Caribe},
+booktitle = {Historia y lengua},
+author = {Yves Moñino},
+editor = {Yves Moñino and Armin Schwegler},
+publisher = {Max Niemeyer Verlag},
+address = {Berlin, Boston},
+pages = {227--248},
+doi = {doi:10.1515/9783110960228.227},
+isbn = {9783110960228},
+year = {2002}
+}",Palenquero
+Ocampo1947,"Ocampo, Esteban A. de. 2007. The Ternateños: their history, language, customs
+and traditions. National Historical Institute.","@book{Ocampo2007,
+  title     = {The {T}ernateños: their history, language, customs and traditions},
+  author    = {Ocampo, Esteban A. de},
+  publisher = {National Historical Institute},
+  address = {},
+  year      =  {2007}
+}",Ternate CH
+Patiño2002,"Patiño, Carlos 2002. Sobre origen y composición del criollo palenquero. In Yves Moñino, Armin Schwegler Eds., Palenque, Cartagena y Afro-Caribe: historia y lengua pp. 21-34. Max Niemeyer Verlag Tübingen.","@inbook{Patino2002,
+url = {https://doi.org/10.1515/9783110960228.21},
+title = {Sobre origen y composición del criollo palenquero},
+booktitle = {Palenque, Cartagena y Afro-Caribe},
+booktitle = {Historia y lengua},
+author = {Patiño, Carlos},
+editor = {Yves Moñino and Armin Schwegler},
+publisher = {Max Niemeyer Verlag},
+address = {Berlin, Boston},
+pages = {21--34},
+doi = {doi:10.1515/9783110960228.21},
+isbn = {9783110960228},
+year = {2002}
+}",Palenquero
+Perl2002,"Perl, Matthias. 2002. El pronombre personal en función de sujeto en palenquero, en
+el criollo de Santo Tomé, en el español popular caribeño y en el portugués popular
+de Angola 117–128. Berlin, Boston: Max Niemeyer Verlag. doi:10.1515/
+9783110960228.117. ","@inbook{Perl2002,
+url = {https://doi.org/10.1515/9783110960228.117},
+title = {El pronombre personal en función de sujeto en palenquero, en el criollo de {S}anto {T}omé, en el español popular caribeño y en el portugués popular de {A}ngola},
+booktitle = {Palenque, {C}artagena y {A}fro-{C}aribe},
+booktitle = {Historia y lengua},
+author = {Matthias Perl},
+editor = {Yves Moñino and Armin Schwegler},
+publisher = {Max Niemeyer Verlag},
+address = {Berlin, Boston},
+pages = {117--128},
+doi = {doi:10.1515/9783110960228.117},
+isbn = {9783110960228},
+year = {2002}
+}",Palenquero
+Quint1998,"Quint, Nicolas. 1998. Dictionnaire créole de Santiago-français. Verbalis.","@book{Quint1998,
+  title     = {Dictionnaire Créole De {S}antiago-français},
+  author    = {Quint, Nicolas},
+  publisher = {Verbalis},
+  year      =  {1998}
+}",Santiago CV
+Quint2000,"Quint, Nicolas. 2000. Le Cap-verdien: Origines et devenir d’une langue métisse.
+Paris: L’Harmattan.","@book{Quint2000,
+  author = {Quint, Nicolas},
+  year = {2000},
+  title = {Le {Cap-verdien}: Origines et Devenir d’une Langue Métisse},
+  publisher = {L’Harmattan},
+  language = {fr},
+  address = {Paris}
+}",Papiamento
+Schwegler1996,"Schwegler, Armin. 1996. ""Chi ma nkongo”: lengua y rito ancestrales en el Palenque
+de San Basilio (Colombia). Frankfurt/Madrid: Vervuert/Bibliotheca IberoAmericana.","@book{Schwegler1996,
+  title     = {""Chi ma nkongo"": lengua y rito ancestrales en El {P}alenque de {S}an {B}asilio ({C}olombia)},
+  author    = {Schwegler, Armin},
+  publisher = {Vervuert/Bibliotheca Ibero-Americana},
+  address = {Frankfurt/Madrid},
+  year      =  {1996}
+}",Palenquero
+Schwegler2000,"Schwegler, Armin. 2000. The african vocabulary of Palenque (Colombia). Journal of Pidgin and Creole Languages 15(2). 241–312. doi:10.1075/jpcl.15.2.02sch.","@article{Schwegler2000,
+  title = {The African Vocabulary of {P}alenque ({C}olombia)},
+  volume = {15},
+  ISSN = {1569-9870},
+  url = {http://dx.doi.org/10.1075/jpcl.15.2.02sch},
+  DOI = {10.1075/jpcl.15.2.02sch},
+  number = {2},
+  journal = {Journal of Pidgin and Creole Languages},
+  publisher = {John Benjamins Publishing Company},
+  author = {Schwegler,  Armin},
+  year = {2000},
+  pages = {241–312}
+}",Palenquero
+Schwegler2002,"Schwegler, Armin 2002. El vocabulario africano de Palenque. In Yves Moñino, Armin Schwegler Eds., Palenque, Cartagena y Afro-Caribe: historia y lengua pp. 171-226. Max Niemeyer Verlag Tübingen.","@inbook{Schwegler2002,
+url = {https://doi.org/10.1515/9783110960228.171},
+title = {El vocabulario africano de {P}alenque ({C}olombia). Segunda parte: compendio alfabético de palabras (con etimologías)},
+booktitle = {Palenque, Cartagena y Afro-Caribe},
+booktitle = {Historia y lengua},
+author = {Armin Schwegler},
+editor = {Yves Moñino and Armin Schwegler},
+publisher = {Max Niemeyer Verlag},
+address = {Berlin, Boston},
+pages = {171--226},
+doi = {doi:10.1515/9783110960228.171},
+isbn = {9783110960228},
+year = {2002}
+}",Palenquero
+Schwegler2013,"Schwegler, Armin. 2013. Palenquero. In Susanne Maria Michaelis, Philippe
+Maurer, Martin Haspelmath & Magnus Huber (eds.), The survey of pidgin and
+creole languages. vol. ii: Portuguese-based, Spanish-based and French-based languages, 182–192. Oxford: Oxford University Press.","@incollection{Schwegler2013,
+  address   = {Oxford},
+  author    = {Schwegler, Armin},
+  booktitle = {The survey of pidgin and creole languages. Vol. II: Portuguese-based, Spanish-based and French-based languages},
+  editor    = {Michaelis, Susanne Maria and Maurer, Philippe and Haspelmath, Martin and Huber, Magnus},
+  key       = {Schwegler 2013},
+  pages     = {182-192},
+  publisher = {Oxford University Press},
+  title     = {Palenquero},
+  type      = {Bibliographical record},
+  year      = {2013}
+}",Palenquero
+SilvaAfonsoMachadoCunhaMarquesFernandesGianfranchiJúniorBorgesMartinsZardoLimaMendesTrigo2024,"Silva, Carlos, Ana Afonso, Sara Machado, Stephanie Cunha, Tiago Marques,
+Ana Fernandes, Guendalina Gianfranchi, M. Júnior, Elaine Borges, L. Martins,
+Vitor Zardo, Maria Lima, Ronaldo Mendes & Luís Trigo. 2024. Guinelex:
+Lexicon and phonology of the languages of Guinea-Bissau. porto: CLUP-Centro
+de Linguística da Universidade do Porto. https://github.com/Portophon/
+GuineLex.","@misc{GuineLex,
+  author       = {Silva, Carlos and Afonso, Ana and Machado, Sara and Cunha, Stephanie and Marques, Tiago and Fernandes, Ana and Gianfranchi, Guendalina and Júnior, M. and Borges, Elaine and Martins, L. and Zardo, Vitor and Lima, Maria and Mendes, Ronaldo and Trigo, Luís},
+  title        = {GuineLex: Lexicon and phonology of the languages of Guinea-Bissau. Porto: CLUP-Centro de Linguística da Universidade do Porto},
+  year         = {2024},
+  url          = {https://github.com/Portophon/GuineLex}
+  }",Guinea Bissau
+SilvaTrigo2022,"Silva, Carlos & Luís Trigo. 2022. PtLanka. https://github.com/Portophon/
+PtLanka.","@misc{PTLanka,
+  author       = {Silva, Carlos and Trigo, Luís},
+  title        = {Pt{L}anka},
+  year         = {2022},
+  publisher = {CLUP-Centro de Linguística da Universidade do Porto},
+  address = {Porto},
+  url          = {https://github.com/Portophon/PtLanka}
+  }",Sri Lanka PT
+SilveiraAgostinhoBandeiraFreitasAraújo2013,"Araujo, Gabriel Antunes, Ana Lívia dos Santos Agostinho, Alfredo Christofoletti Silveira, Shirley Freitas & Manuele Bandeira. 2013. Fá d’Ambô:
+Língua crioula de Ano Bom. Cadernos de Estudos Lingüísticos 55(2). 25–
+44. doi:10.20396/cel.v55i2.8637289.","@article{fadambo2,
+  title = {Fá d’{A}mbô: Língua crioula de {A}no {B}om},
+  volume = {55},
+  ISSN = {2447-0686},
+  url = {http://dx.doi.org/10.20396/cel.v55i2.8637289},
+  DOI = {10.20396/cel.v55i2.8637289},
+  number = {2},
+  journal = {Cadernos de Estudos Ling\""{u}ísticos},
+  publisher = {Universidade Estadual de Campinas},
+  author = {Araujo,  Gabriel Antunes and Agostinho,  Ana Lívia dos Santos and Silveira,  Alfredo Christofoletti and Freitas,  Shirley and Bandeira,  Manuele},
+  year = {2013},
+  month = dec,
+  pages = {25–44}
+}",Fá d'Ambô
+Sippola2011,"Sippola, Eeva. 2011. Una gramática descriptiva del chabacano de Ternate: University of Helsinki Ph.D. dissertation. https://helda.helsinki.fi/server/
+api/core/bitstreams/af8c987e-b114-47d4-ad3f-88f1e8e68bf3/content.","@phdthesis{Sippola2011,
+    url = {https://helda.helsinki.fi/server/api/core/bitstreams/af8c987e-b114-47d4-ad3f-88f1e8e68bf3/content},
+    title = {Una gramática descriptiva del chabacano de {T}ernate},
+    author = {Sippola, Eeva},
+    year = {2011},
+    school = {University of Helsinki},
+    type = {{Ph.D.} dissertation}
+}",Ternate CH
+Sippola2013,"Sippola, Eeva. 2013. Cavite Chabacano. In Susanne Maria Michaelis, Philippe
+Maurer, Martin Haspelmath & Magnus Huber (eds.), The survey of pidgin
+and creole languages. in ”the survey of pidgin and creole languages”. volume 2:
+Portuguese-based, Spanish-based, and French-based Languages, Oxford: Oxford
+University Press. https://apics-online.info/surveys/45.","@incollection{Sippola2013,
+  address   = {Oxford},
+  author    = {Eeva Sippola},
+  booktitle = {The survey of pidgin and creole languages. In ""The survey of pidgin and creole languages"". Volume 2: {P}ortuguese-based, {S}panish-based, and {F}rench-based {L}anguages},
+  editor    = {Susanne Maria Michaelis and Philippe Maurer and Martin Haspelmath and Magnus Huber},
+  publisher = {Oxford University Press},
+  title     = {Cavite {C}habacano},
+  url       = {https://apics-online.info/surveys/45},
+  year      = {2013}
+}",Cavite CH
+Staudacher-Valliamee2001,"Staudacher-Valliamee, Gillette. 2001. La description linguistique des langues
+créoles : la problématique du créole de la Réunion et de Bourbon. Saint-Denis:
+Université de la Réunion.","@book{StaudacherValliamee2001,
+  title     = {La description linguistique des langues créoles : la problématique du créole de la {R}éunion et de {Bourbon}},
+  author    = {Staudacher-Valliamee, Gillette},
+  publisher = {Université de la Réunion},
+  address = {Saint-Denis},
+  year      =  {2001}
+}",Réunionnese
+Stein1984,"Stein, Peter. 1984. Kreolisch und Französisch. Berlin, Boston: Max Niemeyer
+Verlag. https://doi.org/10.1515/9783110963472.","@book{Stein1984,
+url = {https://doi.org/10.1515/9783110963472},
+title = {Kreolisch und {F}ranzösisch},
+author = {Peter Stein},
+publisher = {Max Niemeyer Verlag},
+address = {Berlin, Boston},
+isbn = {9783110963472},
+year = {1984}
+}",Réunionnese
+Steinkrüger2013,"Steinkrüger, Patrick O. 2013. Zamboanga Chabacano. In Susanne Maria
+Michaelis, Philippe Maurer, Martin Haspelmath & Magnus Huber (eds.),
+The survey of pidgin and creole languages. in ”the survey of pidgin and creole languages”. volume 2: Portuguese-based, Spanish-based, and French-based
+Languages, Oxford: Oxford University Press. https://apics-online.info/
+surveys/46.","@incollection{Steinkruger2013,
+  address   = {Oxford},
+  author    = {Patrick O. Steinkrüger},
+  booktitle = {The survey of pidgin and creole languages. In ""The survey of pidgin and creole languages"". Volume 2: {P}ortuguese-based, {S}panish-based, and {F}rench-based {L}anguages},
+  editor    = {Susanne Maria Michaelis and Philippe Maurer and Martin Haspelmath and Magnus Huber},
+  publisher = {Oxford University Press},
+  title     = {Zamboanga {C}habacano},
+  url       = {https://apics-online.info/surveys/46},
+  year      = {2013}
+}",Zamboanga CH
+Swolkien2015,"Swolkien, Dominika. 2015. The Cape Verdean Creole of São Vicente: Universidade
+de Coimbra Ph.D. dissertation.","@phdthesis{Swolkien2015,
+    title = {The {C}ape {V}erdean {C}reole of {S}ão {V}icente},
+    author = {Swolkien, Dominika},
+    year = {2015},
+    school = {Universidade de Coimbra},
+    type = {{Ph.D.} dissertation}
+}",São Vicente CV
+Tavares2020,"Moreira, Ana Karina Tavares. 2012. Documentation et description grammaticale
+et lexicale du créole afro-portugais de l’île de fogo (république du Cap-Vert, Afrique
+de l’Ouest): Institut National des Langues et Civilisations Orientales [Ph.D. dissertation]. https://theses.fr/2020INAL0028.","@phdthesis{Tavares2020,
+    url = {https://theses.fr/2020INAL0028},
+    title = {Documentation et description grammaticale et lexicale du créole afro-portugais de l’île de Fogo (République du Cap-Vert, Afrique de l’Ouest)},
+    author = {Moreira, Ana Karina Tavares},
+    year = {2012},
+    school = {Institut National des Langues et Civilisations Orientales},
+    type = {{Ph.D.} dissertation}
+}",Fogo CV
+Tobler1983,"Tobler, Alfred. 1987. Dicionário crioulo karipúna/português, português/crioulo
+karipúna. Sociedade Internacional da Linguística.","@book{Tobler1983,
+title = {The Grammar of Karipuna Creole},
+author = {Tobler, Joy},
+publisher = {Sociedade Internacional da Linguística},
+year = {1983},
+}",Karipuna
+Tobler1987,"Tobler, Joy. 1983. The grammar of karipuna creole. Sociedade Internacional da
+Linguística.","@book{Tobler1987,
+title = {Dicionário Crioulo Karipúna/Português, Português/Crioulo Karipúna},
+author = {Tobler, Alfred},
+publisher = {Sociedade Internacional da Linguística},
+year = {1987},
+}",Karipuna
+Valdmanetal.1999,"Valdman, Albert, Thomas A. Klingler, Margaret M. Marshall & Kevin J. Rottet.
+1998. ]. Bloomington: Indiana University Press.","@book{Valdmanetal1998,
+  title     = {Dictionary of {L}ouisiana {C}reole},
+  author    = {Valdman, Albert and Klingler, Thomas A. and Marshall, Margaret M. and Rottet, Kevin J.},
+  publisher = {Indiana University Press},
+  address = {Bloomington},
+  year      =  {1998}
+}",Louisiana
+Wittmann1973,"Wittmann, Henri Gontran. 1973. The lexicostatistical classification of the
+French-based creole languages. In Isidore Dyen (ed.), Lexicostatistics in genetic linguistics: proceedings of the Yale Conference, 89–99. The Hague/Paris:
+Mouton.","@incollection{Wittmann1973,
+  author = {Wittmann, Henri Gontran},
+  year = {1973},
+  title = {The lexicostatistical classification of the {F}rench-based creole languages},
+  publisher = {Mouton},
+  booktitle= {Lexicostatistics in genetic linguistics: proceedings of the {Y}ale {C}onference},
+  pages = {89-99},
+  editor= {Dyen, Isidore},
+  address = {The Hague/Paris}
+}","Mauritian, Haitian"
