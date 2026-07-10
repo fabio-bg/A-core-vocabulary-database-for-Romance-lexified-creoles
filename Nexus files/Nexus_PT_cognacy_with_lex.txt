@@ -1,0 +1,250 @@
+#nexus
+
+BEGIN TAXA;
+  DIMENSIONS ntax=21;
+  TAXLABELS
+    POR
+    KOR
+    DAM
+    DIU
+    SRL
+    KAN
+    MAL
+    MAC
+    TUG
+    STG
+    SAT
+    SVC
+    FOG
+    BRV
+    STM
+    FDB
+    PRC
+    ANG
+    GUI
+    CAS
+    PAP
+  ;
+END;
+
+BEGIN CHARACTERS;
+  DIMENSIONS nchar=207;
+  FORMAT
+    datatype=STANDARD
+    missing=?
+    gap=-
+    symbols="0abcdefghijkl"
+    labels=no
+    transpose=yes
+    interleave=no
+  ;
+  MATRIX
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	b	a	a	a	a	a	a	f	a	a	a	a	a	a	-	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	?	a	a	?	a	a	a	a	a	a	a	a	a	?	?	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	a	a	a	c	a	a	?	a	a	a	a	a	a	a	a	i	a	a	?	a
+a	b	a	a	-	-	a	a	-	a	a	a	a	a	a	a	a	-	k	k	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	a	a	a	a	a	a	g	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	i	a	a	a	a	l
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	?	a	a	?	?	a	?	a	?	i	?	a	a	l
+a	a	a	?	?	?	a	?	?	a	?	?	?	?	?	?	?	?	a	?	l
+a	a	a	a	a	a	a	a	a	a	-	a	a	a	a	a	a	a	a	?	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	b	a	a	a	c	a	?	a	a	a	a	a	a	a	a	a	-	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	?	?	?	a	?	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	f	?	a	a	a	a	a	a	a	i	a	-	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	?	-	a	?	?	?	a	a	a	a	a	?	?	?	?	?	?	a
+a	-	a	?	a	b	a	?	a	a	a	a	a	a	a	a	a	a	a	?	e
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	b	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	?	a	?	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	j
+a	a	a	?	a	?	a	-	?	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	?	l
+a	a	a	a	a	a	a	?	?	a	a	a	a	a	?	?	?	?	a	a	l
+a	a	a	?	a	a	a	a	-	a	a	a	a	a	a	a	a	j	a	a	a
+a	?	?	?	a	?	a	?	a	a	?	a	?	?	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	j	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	b	a	?	a	a	a	?	?	a	a	a	a	a	a	a	a	a	?	a	e
+a	b	a	a	?	?	a	?	?	a	a	a	a	a	-	?	?	?	-	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	a	a	a	a	d	?	?	?	a	a	a	a	a	a	?	a	?	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	?	?	?	a	?	a	?	a	a	a	?	?	?	i	i	a	i	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	b	a	a	?	d	?	?	?	a	a	a	a	a	?	?	?	?	?	?	e
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	d	a	?	a	a	a	a	a	a	a	a	a	i	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	j	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	?	a	i	?	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	a	l
+a	a	a	a	a	?	a	-	a	h	h	a	a	a	a	a	a	a	-	-	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	-	a	a	a	a	?	l
+a	b	-	a	a	?	?	?	a	a	a	a	a	?	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	?	a	?	a	?	?	a	a	a	a	a	a	a	a	a	a	?	e
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	b	a	a	d	d	?	?	a	a	a	a	a	a	a	?	?	?	a	?	e
+a	a	a	a	a	a	a	a	f	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	b	a	a	a	?	a	?	a	a	?	?	a	?	a	a	a	j	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	-	a	a	l
+a	b	a	a	a	?	?	?	a	a	a	a	a	a	a	?	a	?	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	b	a	a	a	d	a	?	?	a	a	a	a	a	a	a	a	a	a	a	-
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	?	?	?	a	a	e
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	i	i	i	i	a	?	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	?	?	?	a	?	a	?	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	?	a	a	a	a	a	a	a	a	?	?	?	?	a	a	a	j	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	?	a	a	a	?	a	a	a	a	a	a	i	i	i	j	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	?	a	c	-	a	a	a	a	a	a	a	a	?	-	?	?	?	e
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	?	a	a	a	?	a	a	a	a	a	a	i	a	i	j	a	?	e
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	-	-	-	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	h	a	l
+a	a	a	?	a	a	a	-	a	a	a	a	a	a	a	a	a	a	-	-	l
+a	b	a	a	a	d	a	?	?	a	a	a	a	a	a	a	a	a	a	a	d
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	?	a	?	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	a
+a	a	a	a	a	d	a	?	a	a	a	a	a	a	a	a	a	j	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	-	a	a	a	a	a	a	a	?	a	?	a	?	a
+a	b	a	a	e	a	a	?	a	a	?	?	a	?	a	a	a	j	a	a	a
+a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	b	a	a	a	b	a	?	a	a	a	a	a	a	a	a	a	j	a	a	e
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	?	?	?	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	?	a	a	?	a	a	a	a	a	a	a	a	a	i	a	a	l
+a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	?	a	a	a	?	a	a	a	a	a	a	a	a	?	?	?	?	e
+a	a	a	a	a	a	a	-	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	d	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	g	a	a	a	a	a	a	-	j	-	-	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	i	i	i	i	a	?	l
+a	a	a	?	-	?	?	a	?	a	a	a	a	a	?	-	i	?	?	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	b	a	?	?	d	?	?	a	a	a	a	a	a	?	a	?	?	?	?	e
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	-	?	?	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	a	a	?	l
+a	a	a	?	?	?	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	?	a	?	-	-	?	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	-	a	a	?	a	a	a	a	a	a	?	?	?	a	?	l
+a	a	a	a	a	a	a	a	a	k	a	a	k	k	i	a	i	a	-	k	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	-	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	i	i	i	i	a	a	l
+a	a	a	a	a	a	a	?	f	a	a	a	a	a	a	a	a	a	a	?	e
+a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	?	?	a	a	a	a	a	a	a	a	a	?	?	l
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	j	j	j	a	a	j
+a	a	a	a	a	a	a	a	f	a	a	a	a	a	a	a	a	-	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	l
+a	b	a	a	a	a	a	-	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	?	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	?	a	a	a	?	?	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	-	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	?	a	-	?	?	a	?	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	-	a	?	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	?	a	a	a	a	a	a	?	a	?	a	a	a
+a	a	a	a	a	?	a	a	a	a	a	a	a	a	a	a	a	a	a	?	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	j	a	a	l
+a	a	a	a	a	?	f	a	a	a	a	a	a	a	a	a	a	a	h	?	a
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	?	e
+a	?	?	?	a	?	a	a	a	a	a	a	a	a	j	j	a	j	a	a	l
+a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+  ;
+END;
