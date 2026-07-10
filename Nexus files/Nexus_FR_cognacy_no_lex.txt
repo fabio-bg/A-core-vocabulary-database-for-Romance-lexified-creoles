@@ -1,0 +1,239 @@
+#nexus
+
+BEGIN TAXA;
+  DIMENSIONS ntax=10;
+  TAXLABELS
+    KAR
+    GUY
+    LOU
+    HAI
+    GUA
+    MAR
+    SLU
+    MAU
+    REU
+    SEY
+  ;
+END;
+
+BEGIN CHARACTERS;
+  DIMENSIONS nchar=207;
+  FORMAT
+    datatype=STANDARD
+    missing=?
+    gap=-
+    symbols="abcdefghijklm"
+    labels=no
+    transpose=yes
+    interleave=no
+  ;
+  MATRIX
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	-	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	?	m	m	m	m	m	m	m	m
+m	m	m	?	m	m	m	m	m	m
+?	?	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	m	?	?	m	m	?	?
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+a	m	m	m	m	m	m	m	?	m
+m	m	m	?	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	?	m	m	m	m	m	m	m	m
+m	?	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	?	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	?
+m	m	m	m	m	m	m	m	-	m
+m	m	m	?	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	-	-	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	?	m	m	m	?	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	?	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	?	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	?	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	?	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	?	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	?	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+?	?	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+?	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	?
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	?	m	m	m	m	m	m
+m	?	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	?	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	?
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	?	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+m	m	m	m	m	m	m	m	m	m
+  ;
+END;
