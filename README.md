@@ -9,5 +9,5 @@ Besides the database file (Comparative database - Swadesh Lists.csv), we provide
 
 **The thesis:** Granja, Fábio Barcellos. 2026. A core vocabulary database for Romance lexified creoles (and what we can do with it) [Master's thesis, Utrecht University]. https://studenttheses.uu.nl/items/75140c08-5e2d-4c44-b3af-2d7e3ff8e843
 
-# Last update:
-23/09/2026. Increased sample size for Réunionese (144 → 194) and Santo Antão Cape Verdean (201 → 203)
+# Latest update:
+24/09/2026. Increased sample size for Réunionese (144 → 194), Guinea-Bissau Creole (195-198) and Santo Antão Cape Verdean (201 → 203)
